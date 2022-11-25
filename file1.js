@@ -1,1 +1,2 @@
-Hello world!
+const x = 10;
+
